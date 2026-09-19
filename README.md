@@ -108,3 +108,5 @@ Test it.
 Preserve what happened.  
 Improve it.  
 Keep moving forward.**
+
+📫 Reach me through LinkedIn or my website.
